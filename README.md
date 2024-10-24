@@ -31,12 +31,10 @@ To run this project, follow these steps:
 
 ### Clone the repository:
 ```bash
-Copy code
 git clone https://github.com/yourusername/customer-churn-eda.git
 ```
 ### Navigate to the project directory:
 ```bash
-Copy code
 cd customer-churn-eda
 ```
 
